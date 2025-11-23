@@ -1,6 +1,6 @@
 # wiki   VPN
  
-### connexion VPN wireguard  sous Archlinux 
+### connexion VPN wireguard  sous Archlinux
 
 Paquet à installer
 
