@@ -12,7 +12,7 @@ Faire la config
 ```sudo nano /etc/wireguard/fr.conf```  pour surfark en fr  faire un copier coller du fichier wireguard déjà dl
 
 
-Demmarrer le service de resolution DNS :
+Demarrer le service de resolution DNS :
 
 ```sudo systemctl enable --now systemd-resolved.service```
 
