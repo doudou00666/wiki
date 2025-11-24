@@ -1,4 +1,4 @@
-# Commande pour créer une connexion VPN Wireguard sur Solus
+# Connexion VPN Wireguard sur Solus
 
 Installer le paquet suivant ```sudo eopkg install wireguard-tools```
 
