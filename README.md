@@ -1,4 +1,7 @@
-[VPN solus] (https://github.com/doudou00666/wiki/blob/main/VPN%20solus.md)
 
-[VPN sous Archlinux]] (https://github.com/doudou00666/wiki/blob/main/VPN%20sous%20Archlinux.md)
+# Table des matères de mon wiki pense bête
 
+
+[VPN solus](https://github.com/doudou00666/wiki/blob/main/VPN%20solus.md)
+
+[VPN sous Archlinux](https://github.com/doudou00666/wiki/blob/main/VPN%20sous%20Archlinux.md)
