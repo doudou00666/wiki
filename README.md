@@ -1,5 +1,5 @@
 
-# Table des matères de mon wiki pense bête
+# Table des matières de mon wiki pense bête
 
 
 [VPN solus](https://github.com/doudou00666/wiki/blob/main/VPN%20solus.md)
