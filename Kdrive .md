@@ -1,5 +1,7 @@
 DL l'app image : `https://www.infomaniak.com/fr/applications/telecharger-kdrive`
 
+Méthode Obsolète corrigé de la part de Infomaniak mais je garde la méthode au cas où.
+
 Installer Fuse 2
 
 Pour **Débian** ou base **Ubuntu**
