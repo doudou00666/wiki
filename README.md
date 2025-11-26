@@ -8,3 +8,4 @@
 
 [Mesa sur Ubuntu](https://github.com/doudou00666/wiki/blob/main/Mesa%20sur%20Ubuntu.md)
 
+[Gaming](https://github.com/doudou00666/wiki/blob/main/Gaming.md)
