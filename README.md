@@ -1,6 +1,7 @@
 
 # Table des matières de mon wiki pense bête
 
+[Installation AUR sous Arch +Octopi](https://github.com/doudou00666/wiki/blob/main/Installation%20AUR%20sous%20Arch%20%2BOctopi.md)
 
 [VPN solus](https://github.com/doudou00666/wiki/blob/main/VPN%20solus.md)
 
@@ -11,3 +12,5 @@
 [Gaming](https://github.com/doudou00666/wiki/blob/main/Gaming.md)
 
 [Kdrive](https://github.com/doudou00666/wiki/blob/main/Kdrive%20.md)
+
+
