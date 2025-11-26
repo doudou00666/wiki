@@ -1,7 +1,10 @@
 
 # Installation de Yay
 
-Il faut installer les outils de compilations : `sudo pacman -S --needed base-devel git`
+
+Il faut installer les outils de compilations 
+
+`sudo pacman -S --needed base-devel git`
 
 ## Cloner le dépot **Yay** : 
 
@@ -18,3 +21,8 @@ Il faut installer les outils de compilations : `sudo pacman -S --needed base-dev
 `cd..`
 
 `rm -rf yay`
+
+
+## Installation de octopi
+
+`yay -S octopi`
