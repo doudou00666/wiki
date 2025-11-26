@@ -12,4 +12,4 @@ Pour une base **Archlinux**
 
 Ensuite il faut modifier l'argument de lancement en ajoutant devant `QT_QPA_PLATFORM=xcb` 
 
-[Capture d'écran](https://raw.githubusercontent.com/doudou00666/wiki/main/1er.png)
+https://github.com/doudou00666/wiki/blob/main/1er.png?raw=true
