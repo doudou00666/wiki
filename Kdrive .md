@@ -11,3 +11,5 @@ Pour une base **Archlinux**
 `sudo pacman -S fuse2`
 
 Ensuite il faut modifier l'argument de lancement en ajoutant devant `QT_QPA_PLATFORM=xcb` 
+
+[Capture d'écran](https://raw.githubusercontent.com/doudou00666/wiki/main/1er.png)
