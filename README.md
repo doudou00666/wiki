@@ -3,6 +3,8 @@
 
 [Installation AUR sous Arch +Octopi](https://github.com/doudou00666/wiki/blob/main/Installation%20AUR%20sous%20Arch%20%2BOctopi.md)
 
+[Grub et double boot](https://github.com/doudou00666/wiki/blob/main/Grub%20et%20double%20boot.md)
+
 [Commandes pour Arch-update](https://github.com/doudou00666/wiki/blob/main/Commande%20pour%20Arch-update.md)
 
 [VPN solus](https://github.com/doudou00666/wiki/blob/main/VPN%20solus.md)
