@@ -19,4 +19,4 @@
 
 [Fish](https://github.com/doudou00666/wiki/blob/main/Fish.md)
 
-[Commandes divers](https://github.com/doudou00666/wiki/blob/main/Commande%20divers.md)
+[Commandes divers](https://github.com/doudou00666/wiki/blob/main/Commandes%20divers.md)
