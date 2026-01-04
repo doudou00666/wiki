@@ -20,3 +20,5 @@
 [Fish](https://github.com/doudou00666/wiki/blob/main/Fish.md)
 
 [Commandes divers](https://github.com/doudou00666/wiki/blob/main/Commandes%20divers.md)
+
+[Désinstaller appli en .DEB](https://github.com/doudou00666/wiki/blob/main/D%C3%A9sinstaller%20appli%20en%20.DEB.md)
