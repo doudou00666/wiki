@@ -24,3 +24,5 @@
 [Désinstaller appli en .DEB](https://github.com/doudou00666/wiki/blob/main/D%C3%A9sinstaller%20appli%20en%20.DEB.md)
 
 [Zen Browser](https://github.com/doudou00666/wiki/blob/main/Zen%20Browser.md)
+
+[Mettre dernière version kde sur kubuntu 25.10](https://github.com/doudou00666/wiki/blob/main/Mettre%20derni%C3%A8re%20version%20kde%20sur%20kubuntu%2025.10.md)
