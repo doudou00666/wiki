@@ -1,28 +1,35 @@
+⚙️ Installation de Yay et Octopi sous Arch Linux
 
-# Installation de Yay
+🧰 Pré-requis : outils de compilation
 
-
-Il faut installer les outils de compilations 
-
-`sudo pacman -S --needed base-devel git`
-
-## Cloner le dépot **Yay** : 
-
-`git clone https://aur.archlinux.org/yay.git`
-
-## Il faut entré dans le dossier et compiler : 
-
-`cd yay`    
-
-`makepkg -si`
-
-## En option on fait un nettoyage :
-
-`cd..`
-
-`rm -rf yay`
+Avant toute installation, il faut s’assurer que les outils de compilation nécessaires sont présents.
 
 
-## Installation de octopi
+``sudo pacman -S --needed base-devel git``
 
-`yay -S octopi`
+📦 Installation de Yay
+🔗 Cloner le dépôt Yay
+
+Pour commencer, il faut cloner le dépôt officiel de Yay depuis l’AUR :
+
+``git clone https://aur.archlinux.org/yay.git``
+
+🏗️ Compiler et installer
+
+Ensuite, entrez dans le dossier du projet et lancez la compilation :
+
+``cd yay``
+``makepkg -si``
+
+🧹 (Optionnel) Nettoyage du répertoire
+
+Une fois l’installation terminée, vous pouvez faire un petit nettoyage :
+
+``cd ..``
+``rm -rf yay``
+
+🖥️ Installation de Octopi
+
+Enfin, installez Octopi, une interface graphique pour gérer vos paquets :
+
+``yay -S octopi``
