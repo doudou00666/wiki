@@ -28,3 +28,45 @@
 [Mettre dernière version kde sur kubuntu 25.10](https://github.com/doudou00666/wiki/blob/main/Mettre%20derni%C3%A8re%20version%20kde%20sur%20kubuntu%2025.10.md)
 
 [réglage easy effect](https://github.com/doudou00666/wiki/blob/main/r%C3%A9glage%20easy%20effect.png)
+
+
+🧠 Wiki Pense-Bête
+
+Table des matières complète avec icônes thématiques pour une navigation rapide.
+📦 Installation & Paquets
+
+    🐧 Installation AUR sous Arch + Octopi
+
+    ⚙️ Commandes pour Arch-update
+
+    🗑️ Désinstaller appli en .DEB
+
+🖥️ Système & Boot
+
+    ⚡ Grub et double boot
+
+    🐧 Mettre dernière version KDE sur Kubuntu 25.10
+
+    📊 Mesa sur Ubuntu
+
+🔒 Réseau & VPN
+
+    🌐 VPN Solus
+
+    🛡️ VPN sous Archlinux
+
+🛠️ Logiciels & Outils
+
+    🌐 Zen Browser
+
+    📁 Kdrive (Obsolète)
+
+    🐟 Fish
+
+    ⌨️ Commandes diverses
+
+🎮 Gaming & Multimédia
+
+    🎮 Gaming
+
+    🔊 Réglage Easy Effect
