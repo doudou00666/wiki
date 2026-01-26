@@ -12,15 +12,15 @@ Trouvez le nom exact du paquet installé avec cette commande :
 
 🗑️ Étape 2 : Supprimer le paquet
 
-Exécutez la commande suivante pour une suppression basique (paquet sans configs) :
+Exécutez la commande suivante pour une suppression basique :
 
-``sudo apt autoremove``
+``sudo apt remove`` nom du paquet
 
 🧹 Étape 3 : Nettoyer les dépendances
 
 Supprimez les dépendances inutiles laissées par le paquet :
 
-``sudo apt autoremove``
+``sudo apt autoremove``  ``sudo apt purge`` + nom du paquet
 
 Cela libère de l'espace en retirant les paquets auto-installés non nécessaires.
 
