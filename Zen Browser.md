@@ -14,3 +14,15 @@ Tapez `about:config`, acceptez l'avertissement, cherchez `zen.urlbar.replace-new
 
 Dans `about:config`, recherchez `zen.view.hide-window-controls` et passez à `false`. Cela révèle la barre d'outils personnelle en mode compact (barre unique).
 
+
+
+Activer la barre de titre (bordure système)
+
+La bordure de fenêtre standard est fournie par votre système (comme KDE sous Linux). Pour l'activer :
+
+    Cliquez droit sur la barre d'outils du navigateur.
+
+    Sélectionnez Personnaliser la barre d'outils.
+
+    Activez l'option Title bar (barre de titre).
+    Cela ajoute une bordure classique en haut de la fenêtre pour une cohérence avec votre environnement de bureau.
