@@ -29,8 +29,8 @@
 - 🔊 [Réglage Easy Effect](https://github.com/doudou00666/wiki/blob/main/r%C3%A9glage%20easy%20effect.png)
 
 
-
 ## Opensuse Tumbleweed
 
 [Liquorix sur opensuse Tumblewee](https://github.com/doudou00666/wiki/blob/main/Liquorix%20sur%20opensuse%20Tumblewee.md)
+
 [Optimisation de Opensuse Tumblewwed avec Liquorix](https://github.com/doudou00666/wiki/blob/main/Optimisation%20de%20Opensuse%20Tumblewwed%20avec%20Liquorix.md)
