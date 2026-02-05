@@ -25,10 +25,10 @@
 
 
 ## ⚡ **One-liner Hebdomadaire**
-```bash
-sudo zypper refresh && sudo zypper dup && zypper ps -s && reboot
 
-💾 Résultat : Système fluide + gaming optimal ! 🎮
+``sudo zypper refresh && sudo zypper dup && zypper ps -s && reboot``
+
+
 
 
 
