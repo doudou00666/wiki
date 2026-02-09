@@ -4,8 +4,9 @@ Je peux installer le kernel Liquorix sur Tumbleweed via un dépôt OBS qui le fo
 
 
 ``sudo zypper ar -f \
-https://download.opensuse.org/repositories/home:/hwsnemo:/kernels/openSUSE_Tumbleweed/ \
-liquorix-kernel``
+  https://download.opensuse.org/repositories/home:/hwsnemo:/kernels/openSUSE_Tumbleweed/ \
+  liquorix-kernel``
+
 
 Puis rafraîchis les dépôts :
 
