@@ -22,3 +22,8 @@ Demarrer le service de resolution DNS :
 pour se conneceter faire la commande suivante : ```sudo wg-quick up fr```
 
 pour ce déconnecter faire la commande suivante : ```sudo wg-quick down fr```
+
+pour mettre la connexion vpn en automatique  au boot faire la commande suivant : ```sudo systemctl enable --now wg-quick@fr```
+
+pour supprimer la connexion automatique au boot voici la commande : ```sudo systemctl disable --now wg-quick@pa```
+
