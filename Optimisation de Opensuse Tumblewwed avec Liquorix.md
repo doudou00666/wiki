@@ -26,7 +26,9 @@
 
 ## ⚡ **One-liner Hebdomadaire**
 
-``sudo zypper refresh && sudo zypper dup && zypper ps -s && reboot``
+```bash
+sudo zypper refresh && sudo zypper dup && zypper ps -s && reboot
+```
 
 
 
