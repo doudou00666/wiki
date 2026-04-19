@@ -4,11 +4,26 @@ Ce tutoriel reformate les étapes pour personnaliser Zen Browser en supprimant l
 
 ## 🗑️ Étape 1 : Supprimer les suggestions
 
-Installez le mod ``No Top Sites`` depuis zen-browser.app/mods pour vider la liste des sites suggérés dans la barre d'adresse. Ce mod cible spécifiquement les top sites sans impact sur d'autres éléments.
+Installez le mod 
+
+```bash
+No Top Sites
+```
+depuis zen-browser.app/mods pour vider la liste des sites suggérés dans la barre d'adresse. Ce mod cible spécifiquement les top sites sans impact sur d'autres éléments.
 
 ## 🔓 Étape 2 : Activer nouvel onglet
 
-Tapez `about:config`, acceptez l'avertissement, cherchez `zen.urlbar.replace-newtab` et réglez sur `false`. Redémarrez Zen Browser pour permettre aux extensions de personnaliser la page de nouvel onglet.
+Tapez 
+
+```bash
+about:config
+```
+acceptez l'avertissement, cherchez 
+
+```bash
+zen.urlbar.replace-newtab
+```
+et réglez sur `false`. Redémarrez Zen Browser pour permettre aux extensions de personnaliser la page de nouvel onglet.
 
 ## 📋 Étape 3 : Afficher barre personnelle
 
