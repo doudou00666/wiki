@@ -23,7 +23,8 @@
 - 📁 [Kdrive (Obsolète)](https://github.com/doudou00666/wiki/blob/main/Kdrive%20.md)  
 - 🐟 [Fish](https://github.com/doudou00666/wiki/blob/main/Fish.md)  
 - ⌨️ [Commandes diverses](https://github.com/doudou00666/wiki/blob/main/Commandes%20divers.md)
-
+- 🌐 [Fastfetch custom](https://github.com/doudou00666/wiki/blob/main/Fastfetch%20custom.md)
+  
 ## 🎮 Gaming & Multimédia
 - 🎮 [Gaming](https://github.com/doudou00666/wiki/blob/main/Gaming.md)  
 - 🔊 [Réglage Easy Effect](https://github.com/doudou00666/wiki/blob/main/r%C3%A9glage%20easy%20effect.png)
