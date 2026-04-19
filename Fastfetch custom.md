@@ -1,6 +1,6 @@
 ### Localiser les presets et la config
 
-On vérifie ouù sont les presets :
+On vérifie où sont les presets :
 
 ```bash
 fastfetch --list-data-paths
