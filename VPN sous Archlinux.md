@@ -3,27 +3,50 @@
 
 Paquet à installer
 
-```sudo pacman -S wireguard-tools systemd-resolvconf```
+```bash
+sudo pacman -S wireguard-tools systemd-resolvconf
+```
 
 Faire la config
 
-```sudo nano /etc/wireguard/fr.conf```  pour surfark en fr  faire un copier coller du fichier wireguard déjà dl
+```bash
+sudo nano /etc/wireguard/fr.conf
+```
+pour surfark en fr  faire un copier coller du fichier wireguard déjà dl
 
 mettre kill switch    A mettre entre **DNS** et **Peer** dans les config vpn pour le kill switch
 
-```PostUp = iptables -I OUTPUT ! -o %i -m mark ! --mark $(wg show %i fwmark) -m addrtype ! --dst-type LOCAL ! -d 192.168.0.0/16 -j REJECT && ip6tables -I OUTPUT ! -o %i -m mark ! --mark $(wg show %i fwmark) -m addrtype ! --dst-type LOCAL -j REJECTPreDown = iptables -D OUTPUT ! -o %i -m mark ! --mark $(wg show %i fwmark) -m addrtype ! --dst-type LOCAL ! -d 192.168.0.0/16 -j REJECT && ip6tables -D OUTPUT ! -o %i -m mark ! --mark $(wg show %i fwmark) -m addrtype ! --dst-type LOCAL -j REJECT```
-
-
+```bash
+PostUp = iptables -I OUTPUT ! -o %i -m mark ! --mark $(wg show %i fwmark) -m addrtype ! --dst-type LOCAL ! -d 192.168.0.0/16 -j REJECT && ip6tables -I OUTPUT ! -o %i -m mark ! --mark $(wg show %i fwmark) -m addrtype ! --dst-type LOCAL -j REJECT
+PreDown = iptables -D OUTPUT ! -o %i -m mark ! --mark $(wg show %i fwmark) -m addrtype ! --dst-type LOCAL ! -d 192.168.0.0/16 -j REJECT && ip6tables -D OUTPUT ! -o %i -m mark ! --mark $(wg show %i fwmark) -m addrtype ! --dst-type LOCAL -j REJECT
+```
 Demarrer le service de resolution DNS :
 
-```sudo systemctl enable --now systemd-resolved.service```
+```bash
+sudo systemctl enable --now systemd-resolved.service
+```
 
+pour se conneceter faire la commande suivante : 
 
-pour se conneceter faire la commande suivante : ```sudo wg-quick up fr```
+```bash
+sudo wg-quick up fr
+```
 
-pour ce déconnecter faire la commande suivante : ```sudo wg-quick down fr```
+pour ce déconnecter faire la commande suivante : 
 
-pour mettre la connexion vpn en automatique  au boot faire la commande suivant : ```sudo systemctl enable --now wg-quick@fr```
+```bash
+sudo wg-quick down fr
+```
 
-pour supprimer la connexion automatique au boot voici la commande : ```sudo systemctl disable --now wg-quick@pa```
+pour mettre la connexion vpn en automatique  au boot faire la commande suivant : 
+
+```bash
+sudo systemctl enable --now wg-quick@fr
+```
+
+pour supprimer la connexion automatique au boot voici la commande : 
+
+```bash
+sudo systemctl disable --now wg-quick@pa
+```
 
