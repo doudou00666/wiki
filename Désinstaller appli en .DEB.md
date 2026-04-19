@@ -8,19 +8,29 @@ Ce tutoriel présente les étapes pour supprimer complètement un paquet install
 
 Trouvez le nom exact du paquet installé avec cette commande :
 
-``dpkg -l | grep -i nom_du_paquet``
+```bash
+dpkg -l | grep -i nom_du_paquet
+```
 
 🗑️ Étape 2 : Supprimer le paquet
 
 Exécutez la commande suivante pour une suppression basique :
 
-``sudo apt remove`` nom du paquet
+```bash
+sudo apt remove nom du paquet
+```
 
 🧹 Étape 3 : Nettoyer les dépendances
 
 Supprimez les dépendances inutiles laissées par le paquet :
 
-``sudo apt autoremove``  ``sudo apt purge`` + nom du paquet
+```bash
+sudo apt autoremove
+```
+```bash
+sudo apt purge
+```
++ nom du paquet
 
 Cela libère de l'espace en retirant les paquets auto-installés non nécessaires.
 
@@ -28,8 +38,10 @@ Cela libère de l'espace en retirant les paquets auto-installés non nécessaire
 
 Actualisez les listes de paquets et confirmez l'absence du paquet :
 
-``sudo apt update``
-``dpkg -l | grep nom_du_paquet``
+```bash
+sudo apt update
+dpkg -l | grep nom_du_paquet
+```
 
 Aucun résultat ne doit apparaître si la désinstallation est réussie.
 
