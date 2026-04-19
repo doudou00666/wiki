@@ -1,12 +1,32 @@
 # Installer le mesa sur Ubuntu
 
-Commande pour connaitre la version de mesa  `glxinfo | grep Mesa`
+Commande pour connaitre la version de mesa 
 
-Ajout du PPA : `sudo add-apt-repository ppa:kisak/kisak-mesa`
+```bash
+glxinfo | grep Mesa
+```
 
-Mettre a jour : `sudo apt update` et `sudo apt upgrade`
+Ajout du PPA : 
 
-Pour supprimer le PPA d'abord faire ceci : `sudo apt install ppa-purge` 
+```bash
+sudo add-apt-repository ppa:kisak/kisak-mesa
+```
 
-et ensuite faire cela `sudo ppa-purge ppa:kisak/kisak-mesa`
+Mettre a jour : 
+
+```bash
+sudo apt update && sudo apt upgrade
+```
+
+Pour supprimer le PPA d'abord faire ceci : 
+
+```bash
+sudo apt install ppa-purge
+``` 
+
+et ensuite faire cela
+
+```bash
+sudo ppa-purge ppa:kisak/kisak-mesa
+```
 
