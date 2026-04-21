@@ -58,6 +58,7 @@ Une fois que tu as choisi un exemple (par ex. `examples/13.jsonc`) :
 Profil chomiam fastfetch
 
 ```shellscript
+
 // Inspired by Catnap
 {
     "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
@@ -108,6 +109,12 @@ Profil chomiam fastfetch
             "type": "de"
         },
         {
+            "key": "│ {#31}󰖟 session {#keys}│",
+            "type": "command",
+            "shell": "bash",
+            "text": "case \"${XDG_SESSION_TYPE:-}\" in wayland) echo Wayland ;; x11) echo X11 ;; *) echo Unknown ;; esac"
+        },
+        {
             "key": "│ {#31} term    {#keys}│",
             "type": "terminal"
         },
@@ -149,5 +156,3 @@ Profil chomiam fastfetch
         }
     ]
 }
-
-```
