@@ -27,7 +27,7 @@
   
 ## 🎮 Gaming & Multimédia
 - 🎮 [Gaming](https://github.com/doudou00666/wiki/blob/main/Gaming.md)  
-- 🔊 [Réglage Easy Effect](https://github.com/doudou00666/wiki/blob/main/r%C3%A9glage%20easy%20effect.png)
+- 🔊 [Réglage Easy Effect](https://github.com/doudou00666/wiki/blob/main/Easy%20effect.png)
 
 
 ## 🌀 OpenSUSE Tumbleweed
