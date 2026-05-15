@@ -23,8 +23,8 @@ git clone https://aur.archlinux.org/yay.git
 Ensuite, entrez dans le dossier du projet et lancez la compilation :
 
 ```bash
-cd yay``
-``makepkg -si
+cd yay
+makepkg -si
 ```
 
 🧹 (Optionnel) Nettoyage du répertoire
