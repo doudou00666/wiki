@@ -8,4 +8,4 @@ Voici comment installer Fish  et le définir comme shell par défaut.
 
 et le mettre par défault on fait la commande suivante :
 
-`chsh -s /usr/bin/fish`
+```chsh -s /usr/bin/fish```
