@@ -1,39 +1,60 @@
 # 🧠 Wiki Pense-Bête
 
-**Table des matières complète** avec icônes thématiques pour une navigation rapide.
+> Collection de notes et tutoriels Linux — Arch Linux, openSUSE Tumbleweed, Ubuntu & Solus.
+>
+> **Navigation** : [Table des matières](#📖-table-des-matières)
+
+---
+
+## 📖 Table des matières
+
+| 📦 Installation & Paquets | 🖥️ Système & Boot | 🔒 Réseau & VPN | 🛠️ Logiciels & Outils | 🎮 Gaming & Multimédia |
+|---|---|---|---|---|
+| [Installation AUR sous Arch + Octopi](Installation%20AUR%20sous%20Arch%20%2BOctopi.md) | [Grub et double boot](Grub%20et%20double%20boot.md) | [VPN Solus](VPN%20solus.md) | [Zen Browser](Zen%20Browser.md) | [Gaming](Gaming.md) |
+| [Commandes pour Arch-update](Commande%20pour%20Arch-update.md) | [Mettre dernière version KDE sur Kubuntu 25.10](Mettre%20derni%C3%A8re%20version%20kde%20sur%20kubuntu%2025.10.md) | [VPN sous Archlinux](VPN%20sous%20Archlinux.md) | [Kdrive (Obsolète)](Kdrive%20.md) | [Réglage Easy Effect](Easy%20effect.png) |
+| [Désinstaller appli en .DEB](D%C3%A9sinstaller%20appli%20en%20.DEB.md) | [Mesa sur Ubuntu](Mesa%20sur%20Ubuntu.md) | — | [Fish](Fish.md) | [Optimisation Tumbleweed + Liquorix](Optimisation%20de%20Opensuse%20Tumblewwed%20avec%20Liquorix.md) |
+| — | — | — | [Commandes diverses](Commandes%20divers.md) | — |
+| — | — | — | [Fastfetch custom](Fastfetch%20custom.md) | — |
+| — | — | — | [Fastfetch profiles](Fastfetch%20profiles.md) | — |
 
 ---
 
 ## 📦 Installation & Paquets
-- 🐧 [Installation AUR sous Arch + Octopi](https://github.com/doudou00666/wiki/blob/main/Installation%20AUR%20sous%20Arch%20%2BOctopi.md)  
-- ⚙️ [Commandes pour Arch-update](https://github.com/doudou00666/wiki/blob/main/Commande%20pour%20Arch-update.md)  
-- 🗑️ [Désinstaller appli en .DEB](https://github.com/doudou00666/wiki/blob/main/D%C3%A9sinstaller%20appli%20en%20.DEB.md)
+
+- 🐧 [Installation AUR sous Arch + Octopi](Installation%20AUR%20sous%20Arch%20%2BOctopi.md)
+- ⚙️ [Commandes pour Arch-update](Commande%20pour%20Arch-update.md)
+- 🗑️ [Désinstaller une application en .DEB](D%C3%A9sinstaller%20appli%20en%20.DEB.md)
 
 ## 🖥️ Système & Boot
-- ⚡ [Grub et double boot](https://github.com/doudou00666/wiki/blob/main/Grub%20et%20double%20boot.md)  
-- 🐧 [Mettre dernière version KDE sur Kubuntu 25.10](https://github.com/doudou00666/wiki/blob/main/Mettre%20derni%C3%A8re%20version%20kde%20sur%20kubuntu%2025.10.md)  
-- 📊 [Mesa sur Ubuntu](https://github.com/doudou00666/wiki/blob/main/Mesa%20sur%20Ubuntu.md)
+
+- ⚡ [Grub et double boot](Grub%20et%20double%20boot.md)
+- 🐧 [Mettre la dernière version KDE sur Kubuntu 25.10](Mettre%20derni%C3%A8re%20version%20kde%20sur%20kubuntu%2025.10.md)
+- 📊 [Mesa sur Ubuntu](Mesa%20sur%20Ubuntu.md)
 
 ## 🔒 Réseau & VPN
-- 🌐 [VPN Solus](https://github.com/doudou00666/wiki/blob/main/VPN%20solus.md)  
-- 🛡️ [VPN sous Archlinux](https://github.com/doudou00666/wiki/blob/main/VPN%20sous%20Archlinux.md)
+
+- 🌐 [VPN Solus](VPN%20solus.md)
+- 🛡️ [VPN sous Archlinux](VPN%20sous%20Archlinux.md)
 
 ## 🛠️ Logiciels & Outils
-- 🌐 [Zen Browser](https://github.com/doudou00666/wiki/blob/main/Zen%20Browser.md)  
-- 📁 [Kdrive (Obsolète)](https://github.com/doudou00666/wiki/blob/main/Kdrive%20.md)  
-- 🐟 [Fish](https://github.com/doudou00666/wiki/blob/main/Fish.md)  
-- ⌨️ [Commandes diverses](https://github.com/doudou00666/wiki/blob/main/Commandes%20divers.md)
-- 🌐 [Fastfetch custom](https://github.com/doudou00666/wiki/blob/main/Fastfetch%20custom.md)
-  
+
+- 🌐 [Zen Browser](Zen%20Browser.md)
+- 📁 [Kdrive (Obsolète)](Kdrive%20.md)
+- 🐟 [Fish](Fish.md)
+- ⌨️ [Commandes diverses](Commandes%20divers.md)
+- 🌟 [Fastfetch custom](Fastfetch%20custom.md)
+- 📋 [Fastfetch profiles](Fastfetch%20profiles.md)
+
 ## 🎮 Gaming & Multimédia
-- 🎮 [Gaming](https://github.com/doudou00666/wiki/blob/main/Gaming.md)  
-- 🔊 [Réglage Easy Effect](https://github.com/doudou00666/wiki/blob/main/Easy%20effect.png)
 
+- 🎮 [Gaming](Gaming.md)
+- 🔊 [Réglage Easy Effect](Easy%20effect.png)
 
-## 🌀 OpenSUSE Tumbleweed
+## 🌀 openSUSE Tumbleweed
 
-- 🚀 [Liquorix sur opensuse Tumbleweed](https://github.com/doudou00666/wiki/blob/main/Liquorix%20sur%20opensuse%20Tumbleweed.md)
+- 🚀 [Liquorix sur openSUSE Tumbleweed](Liquorix%20sur%20opensuse%20Tumbleweed.md)
+- ⚡ [Optimisation de openSUSE Tumbleweed avec Liquorix](Optimisation%20de%20Opensuse%20Tumblewwed%20avec%20Liquorix.md)
 
-- ⚡[Optimisation de Opensuse Tumblewwed avec Liquorix](https://github.com/doudou00666/wiki/blob/main/Optimisation%20de%20Opensuse%20Tumblewwed%20avec%20Liquorix.md)
+---
 
-
+<p align="center"><em>Notes personnelles — chaque lien pointe vers la page correspondante du wiki.</em></p>
